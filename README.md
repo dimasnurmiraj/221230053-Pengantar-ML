@@ -9,4 +9,4 @@ Repository untuk mata kuliah Pengantar Machine Learning-[Dimas Nur Mi'Raj]-[2212
 Repository ini berisi semua tugas, proyek, dan catatan untuk mata kuliah **Pengantar Machine Learning** Semester Ganjil 2025/2026.
 
 ## Daftar Tugas
-- **Minggu 1:** [Setup Environment - Hello World](https://colab.research.google.com/github/[dimasnurmiraj]/[221230053]-Pengantar-ML/blob/main/Tugas_Minggu_1_Hello_World.ipynb)
+- **Minggu 1:** [Setup Environment - Hello World](https://github.com/dimasnurmiraj/221230053-Pengantar-ML/blob/main/Tugas_Minggu_1_Hello_World.ipynb)
